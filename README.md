@@ -11,7 +11,7 @@ A Chrome Extension that shows 7-day sunrise and sunset forecasting.
 ## Tech Stack
 Tools: HTML, CSS, JavaScript, Geo Location, Weather API, Fontawesome, Bootstrap
 
-## UI Screenshots
+## UI Samples
 ![](https://github.com/samnoon1971/Surjo/blob/main/ui_sample.png)
 
 ![](https://github.com/samnoon1971/Surjo/blob/main/ui_sample2.png)
