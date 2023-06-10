@@ -1,0 +1,17 @@
+{
+    "name": "Surjo",
+    "version": "1.0.0",
+    "description": "show weekly sunrise and sunset time",
+    "manifest_version": 3,
+    "author": "S M Samnoon Abrar",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Weekly Sunrise and Sunset Local Time"
+    },
+   "icons": {
+         "128": "solar.png"
+  },
+    "permissions": [
+       "geolocation"
+     ]
+}
