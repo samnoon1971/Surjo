@@ -16,7 +16,9 @@ Tools: HTML, CSS, JavaScript, Geo Location, Weather API, Fontawesome, Bootstrap
 
 ![](https://github.com/samnoon1971/Surjo/blob/main/ui_sample2.png)
 
+## User Guide
 
+See `user_guide.md` for instructions on installation and usage.
 
 
 
