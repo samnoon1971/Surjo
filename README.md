@@ -32,7 +32,7 @@ Please adhere to this project's `code of conduct`.
 
 #### What is the project for?
 
-It was developed as part of web developement sessional course
+It was developed as part of weekend fun project
 
 
 ## Support
