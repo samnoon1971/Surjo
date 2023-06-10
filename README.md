@@ -9,7 +9,7 @@ A Chrome Extension that shows 7-day sunrise and sunset forecasting.
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 ## Tech Stack
-Tools: Geolocation, Weather API, Fontawesome, Bootstrap
+Tools: HTML, CSS, JavaScript, Geo Location, Weather API, Fontawesome, Bootstrap
 
 ## UI Screenshots
 ![](https://github.com/samnoon1971/Surjo/blob/main/ui_sample.png)
